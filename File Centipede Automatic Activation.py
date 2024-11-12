@@ -101,4 +101,4 @@ def InputActivationCode(WindowTitle,ActivationCode):
         print("发生错误:", e)
 
 # 主进程
-InputActivationCode("文件蜈蚣 - 激活码",GetActivationCodes())
+InputActivationCode("File Centipede - Activation code",GetActivationCodes())
